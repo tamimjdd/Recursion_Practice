@@ -23,6 +23,4 @@ int main()
     cout<<s2<<endl;
 }
 
-// This is code is contributed by rathbhupendra
-
 
