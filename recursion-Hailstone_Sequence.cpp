@@ -25,5 +25,4 @@ int main()
     rec(13);
 }
 
-// This is code is contributed by rathbhupendra
 
